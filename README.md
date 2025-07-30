@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ambot<br>👯 Proud founder of Syntax</>Breakers<br>🤝 I’m looking for help with app developments and stuff<br>🌱 I’m currently learning Javascript<br>💬 Do not feel free to insult my code<br>⚡ Fun fact: I'm a student(not college student btw) <br>      and a startup founder
+🔭 I’m currently working on Ambot<br>👯 Proud founder of Syntax</>Breakers<br>🤝 I’m looking for help with app developments and stuff<br>🌱 I’m currently learning Javascript<br>💬 Do not feel free to insult my code<br>⚡ Fun fact: I'm a student<br>      and a startup founder
 
 
 ## 🌐 Socials:
